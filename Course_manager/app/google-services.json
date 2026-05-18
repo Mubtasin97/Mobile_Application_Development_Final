@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199265746016",
+    "project_id": "coursemanager-b97c5",
+    "storage_bucket": "coursemanager-b97c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199265746016:android:bbcc70038ddaeda7339705",
+        "android_client_info": {
+          "package_name": "com.university.coursemanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGX-QB7HzogVXgcSBACElff_mvEUA1bas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

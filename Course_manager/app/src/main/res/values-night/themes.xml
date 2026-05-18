@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="Base.Theme.StudentCourseManager" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#00695C</item>
+        <item name="colorPrimaryVariant">#004D40</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">#004D40</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.StudentCourseManager" parent="Base.Theme.StudentCourseManager" />
+
+</resources>
